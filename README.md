@@ -1,4 +1,4 @@
-The RPN-Evaluator is a simple stack-based calculator designed to evaluate expressions in Reverse Polish Notation (RPN). This project implements basic arithmetic operations (addition, subtraction, multiplication, and division) using a stack-based approach, following the principles of RPN.
+The **RPN-Evaluator** is a simple stack-based calculator designed to evaluate expressions in Reverse Polish Notation (RPN). This project implements basic arithmetic operations (addition, subtraction, multiplication, and division) using a stack-based approach, following the principles of RPN.
 
 **Features**
 Evaluates arithmetic expressions in Reverse Polish Notation.
