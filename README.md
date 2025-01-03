@@ -4,7 +4,9 @@ The **RPN-Evaluator** is a simple stack-based calculator designed to evaluate ex
 Evaluates arithmetic expressions in Reverse Polish Notation.
 Supports addition, subtraction, multiplication, and division.
 Uses a stack-based approach for computation.
-**How It Works**
+<div style= "margin-left: 20px;" >
+<b>**How It Works**</b>
 1. Input: The program reads an RPN expression from the user.
 2. Processing: Tokens are pushed onto the stack or operated upon based on their type (numbers or operators).
 3. Output: The final result is obtained by performing operations sequentially as tokens are popped from the stack.
+</div>
