@@ -6,6 +6,7 @@ Supports addition, subtraction, multiplication, and division.
 Uses a stack-based approach for computation.
 <div style= "margin-left: 20px;" >
 <b>**How It Works**</b>
+
 1. Input: The program reads an RPN expression from the user.
   
 2. Processing: Tokens are pushed onto the stack or operated upon based on their type (numbers or operators).
